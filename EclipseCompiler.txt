@@ -1,0 +1,93 @@
+7 Apr 2019 4:37:58 GMT: Log 'EclipseCompiler.txt' opened: 7 Apr 2019 4:37:58 GMT with name C:\Users\Maruf\Mine\Games\Tic-Tac-Toe\EclipseCompiler.txt
+7 Apr 2019 4:38:13 GMT: diagnostics = javax.tools.DiagnosticCollector@153496c
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1d8b217
+fileObjects = [C:\Users\Maruf\Mine\Games\Tic-Tac-Toe\TicTacToe.java]
+7 Apr 2019 4:38:13 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1c49322' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Maruf\Mine\Games\Tic-Tac-Toe;C:\Users\Maruf\Desktop\DrJava.exe]
+7 Apr 2019 4:38:14 GMT: Compiler call returned
+7 Apr 2019 4:38:14 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3163f1
+7 Apr 2019 4:38:14 GMT:  Kind = WARNING
+7 Apr 2019 4:38:14 GMT: Name = C:\Users\Maruf\Mine\Games\Tic-Tac-Toe\TicTacToe.java LineNo = 7 ColNo = 13 Msg = 'Resource leak: 'x' is never closed'
+7 Apr 2019 4:38:27 GMT: diagnostics = javax.tools.DiagnosticCollector@4fcee2
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@433b80
+fileObjects = [C:\Users\Maruf\Mine\Games\Tic-Tac-Toe\TicTacToe.java]
+7 Apr 2019 4:38:27 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@dab92e' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Maruf\Mine\Games\Tic-Tac-Toe;C:\Users\Maruf\Desktop\DrJava.exe]
+7 Apr 2019 4:38:27 GMT: Compiler call returned
+7 Apr 2019 4:38:27 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@13b07cd
+7 Apr 2019 4:38:27 GMT:  Kind = WARNING
+7 Apr 2019 4:38:27 GMT: Name = C:\Users\Maruf\Mine\Games\Tic-Tac-Toe\TicTacToe.java LineNo = 7 ColNo = 13 Msg = 'Resource leak: 'x' is never closed'
+7 Apr 2019 4:45:16 GMT: diagnostics = javax.tools.DiagnosticCollector@16c8efb
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@900db1
+fileObjects = [C:\Users\Maruf\Mine\Games\Tic-Tac-Toe\TicTacToe.java]
+7 Apr 2019 4:45:16 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@f2fd72' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Maruf\Mine\Games\Tic-Tac-Toe;C:\Users\Maruf\Desktop\DrJava.exe]
+7 Apr 2019 4:45:16 GMT: Compiler call returned
+7 Apr 2019 4:45:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@15bf40
+7 Apr 2019 4:45:16 GMT:  Kind = ERROR
+7 Apr 2019 4:45:16 GMT: Name = C:\Users\Maruf\Mine\Games\Tic-Tac-Toe\TicTacToe.java LineNo = 4 ColNo = 1 Msg = 'Syntax error, insert "}" to complete ClassBody'
+7 Apr 2019 4:45:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@f5ee15
+7 Apr 2019 4:45:16 GMT:  Kind = ERROR
+7 Apr 2019 4:45:16 GMT: Name = C:\Users\Maruf\Mine\Games\Tic-Tac-Toe\TicTacToe.java LineNo = 20 ColNo = 33 Msg = 'Syntax error, insert "; ) Statement" to complete ForStatement'
+7 Apr 2019 4:45:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1fbdf40
+7 Apr 2019 4:45:16 GMT:  Kind = ERROR
+7 Apr 2019 4:45:16 GMT: Name = C:\Users\Maruf\Mine\Games\Tic-Tac-Toe\TicTacToe.java LineNo = 20 ColNo = 33 Msg = 'Syntax error, insert "}" to complete Block'
+7 Apr 2019 4:45:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2ffc44
+7 Apr 2019 4:45:16 GMT:  Kind = ERROR
+7 Apr 2019 4:45:16 GMT: Name = C:\Users\Maruf\Mine\Games\Tic-Tac-Toe\TicTacToe.java LineNo = 20 ColNo = 33 Msg = 'Syntax error, insert "}" to complete MethodBody'
+7 Apr 2019 4:45:36 GMT: diagnostics = javax.tools.DiagnosticCollector@a6e0a
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@e3ff78
+fileObjects = [C:\Users\Maruf\Mine\Games\Tic-Tac-Toe\TicTacToe.java]
+7 Apr 2019 4:45:36 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@19af06b' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Maruf\Mine\Games\Tic-Tac-Toe;C:\Users\Maruf\Desktop\DrJava.exe]
+7 Apr 2019 4:45:36 GMT: Compiler call returned
+7 Apr 2019 4:45:36 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1f1cc6d
+7 Apr 2019 4:45:36 GMT:  Kind = ERROR
+7 Apr 2019 4:45:36 GMT: Name = C:\Users\Maruf\Mine\Games\Tic-Tac-Toe\TicTacToe.java LineNo = 4 ColNo = 1 Msg = 'Syntax error, insert "}" to complete ClassBody'
+7 Apr 2019 4:45:36 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@23522b
+7 Apr 2019 4:45:36 GMT:  Kind = ERROR
+7 Apr 2019 4:45:36 GMT: Name = C:\Users\Maruf\Mine\Games\Tic-Tac-Toe\TicTacToe.java LineNo = 20 ColNo = 33 Msg = 'Syntax error, insert "; ) Statement" to complete ForStatement'
+7 Apr 2019 4:45:36 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@165b48
+7 Apr 2019 4:45:36 GMT:  Kind = ERROR
+7 Apr 2019 4:45:36 GMT: Name = C:\Users\Maruf\Mine\Games\Tic-Tac-Toe\TicTacToe.java LineNo = 20 ColNo = 33 Msg = 'Syntax error, insert "}" to complete Block'
+7 Apr 2019 4:45:36 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3b6f7f
+7 Apr 2019 4:45:36 GMT:  Kind = ERROR
+7 Apr 2019 4:45:36 GMT: Name = C:\Users\Maruf\Mine\Games\Tic-Tac-Toe\TicTacToe.java LineNo = 20 ColNo = 33 Msg = 'Syntax error, insert "}" to complete MethodBody'
+7 Apr 2019 4:45:43 GMT: diagnostics = javax.tools.DiagnosticCollector@47221a
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@19f4369
+fileObjects = [C:\Users\Maruf\Mine\Games\Tic-Tac-Toe\TicTacToe.java]
+7 Apr 2019 4:45:43 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@898ac6' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Maruf\Mine\Games\Tic-Tac-Toe;C:\Users\Maruf\Desktop\DrJava.exe]
+7 Apr 2019 4:45:43 GMT: Compiler call returned
+7 Apr 2019 4:45:43 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1657009
+7 Apr 2019 4:45:43 GMT:  Kind = ERROR
+7 Apr 2019 4:45:43 GMT: Name = C:\Users\Maruf\Mine\Games\Tic-Tac-Toe\TicTacToe.java LineNo = 4 ColNo = 1 Msg = 'Syntax error, insert "}" to complete ClassBody'
+7 Apr 2019 4:45:43 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4006f3
+7 Apr 2019 4:45:43 GMT:  Kind = ERROR
+7 Apr 2019 4:45:43 GMT: Name = C:\Users\Maruf\Mine\Games\Tic-Tac-Toe\TicTacToe.java LineNo = 20 ColNo = 33 Msg = 'Syntax error, insert "; ) Statement" to complete ForStatement'
+7 Apr 2019 4:45:43 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@c3e963
+7 Apr 2019 4:45:43 GMT:  Kind = ERROR
+7 Apr 2019 4:45:43 GMT: Name = C:\Users\Maruf\Mine\Games\Tic-Tac-Toe\TicTacToe.java LineNo = 20 ColNo = 33 Msg = 'Syntax error, insert "}" to complete Block'
+7 Apr 2019 4:45:43 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@f22a3
+7 Apr 2019 4:45:43 GMT:  Kind = ERROR
+7 Apr 2019 4:45:43 GMT: Name = C:\Users\Maruf\Mine\Games\Tic-Tac-Toe\TicTacToe.java LineNo = 20 ColNo = 33 Msg = 'Syntax error, insert "}" to complete MethodBody'
+7 Apr 2019 4:46:28 GMT: diagnostics = javax.tools.DiagnosticCollector@160049
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@18e6a5a
+fileObjects = [C:\Users\Maruf\Mine\Games\Tic-Tac-Toe\TicTacToe.java]
+7 Apr 2019 4:46:28 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@19fcc24' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Maruf\Mine\Games\Tic-Tac-Toe;C:\Users\Maruf\Desktop\DrJava.exe]
+7 Apr 2019 4:46:28 GMT: Compiler call returned
+7 Apr 2019 4:46:28 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@122245e
+7 Apr 2019 4:46:28 GMT:  Kind = WARNING
+7 Apr 2019 4:46:28 GMT: Name = C:\Users\Maruf\Mine\Games\Tic-Tac-Toe\TicTacToe.java LineNo = 7 ColNo = 13 Msg = 'Resource leak: 'x' is never closed'
+7 Apr 2019 5:07:11 GMT: diagnostics = javax.tools.DiagnosticCollector@171449f
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@11f590
+fileObjects = [C:\Users\Maruf\Mine\Games\Tic-Tac-Toe\TicTacToe.java]
+7 Apr 2019 5:07:11 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1fee5fa' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Maruf\Mine\Games\Tic-Tac-Toe;C:\Users\Maruf\Desktop\DrJava.exe]
+7 Apr 2019 5:07:11 GMT: Compiler call returned
+7 Apr 2019 5:07:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3543a9
+7 Apr 2019 5:07:11 GMT:  Kind = WARNING
+7 Apr 2019 5:07:11 GMT: Name = C:\Users\Maruf\Mine\Games\Tic-Tac-Toe\TicTacToe.java LineNo = 7 ColNo = 13 Msg = 'Resource leak: 'x' is never closed'
+21 Apr 2019 9:54:11 GMT: Log 'EclipseCompiler.txt' opened: 21 Apr 2019 9:54:11 GMT with name C:\Users\Maruf\Mine\Games\Tic-Tac-Toe\EclipseCompiler.txt
+21 Apr 2019 9:54:28 GMT: diagnostics = javax.tools.DiagnosticCollector@ef3546
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@16074f3
+fileObjects = [C:\Users\Maruf\Mine\Games\Tic-Tac-Toe\TicTacToe.java]
+21 Apr 2019 9:54:28 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@125b722' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Maruf\Mine\Games\Tic-Tac-Toe;C:\Users\Maruf\Desktop\DrJava.exe]
+21 Apr 2019 9:54:29 GMT: Compiler call returned
+21 Apr 2019 9:54:29 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@189c141
+21 Apr 2019 9:54:29 GMT:  Kind = WARNING
+21 Apr 2019 9:54:29 GMT: Name = C:\Users\Maruf\Mine\Games\Tic-Tac-Toe\TicTacToe.java LineNo = 7 ColNo = 13 Msg = 'Resource leak: 'x' is never closed'
